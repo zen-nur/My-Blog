@@ -1,24 +1,18 @@
 # My First Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Life in Dubai
 
-Things you may want to cover:
+* Weather
 
-* Ruby version
+* Peolpe 
 
-* System dependencies
+* Food 
 
-* Configuration
+* Culture 
 
-* Database creation
+* Work 
 
-* Database initialization
+* Night life 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Luxury life 
+ 
