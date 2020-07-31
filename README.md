@@ -1,18 +1,5 @@
 # My First Blog
 
-## Life in Dubai
+## What is a blog anyway? 
 
-* Weather
-
-* Peolpe 
-
-* Food 
-
-* Culture 
-
-* Work 
-
-* Night life 
-
-* Luxury life 
- 
+_In short, a blog is a type of website that focuses mainly on written content, also known as blog posts. In popular culture we most often hear about news blogs or celebrity blog sites, but as you’ll see in this guide, you can start a successful blog on just about any topic imaginable. Bloggers often write from a personal perspective that allows them to connect directly with their readers. In addition, most blogs also have a “comments” section where readers can correspond with the blogger. Interacting with your readers in the comments section helps to further the connection between the blogger and the reader. This direct connection to the reader is one of the main benefits of starting a blog. This connection allows you to interact and share ideas with other like-minded people. It also allows you to build trust with your readers. Having the trust and loyalty of your readers also opens up the door to making money from your blog, which is something I discuss later in this guide_
